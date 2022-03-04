@@ -7,7 +7,7 @@ int main()
 	printf("Input a string:");
 	gets(str);
 	printf("The string is %s\n",str);
-	puts(str);		/*¥Îputs()¦L¥X¨Óªº·|¦Û°Ê´«¦æ*/ 
+	puts(str);		/*strå­—ä¸²æœƒå°å‡ºä¾†*/
 	puts("what's your name?'");
 	system ("pause");
 	return 0;
